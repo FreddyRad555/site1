@@ -1,0 +1,268 @@
+
+.block2{
+		background: gray;
+		display: block;
+	    position: static;
+		width:180px; 
+	    height:160px;
+        float:left;/*Add float left*/
+	    margin-left: 300px;
+		}
+
+.block3{
+        background: gray;
+		width: 580px;
+		height: 141px;
+	    padding-bottom: 10px;
+	    padding-left: 10px;
+	    padding-right: 10px;
+	    padding-top: 10px;
+	    margin-left: 10;
+	    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	    text-decoration: underline;
+	    color: white;
+	    text-align: right;
+	    line-height: 10px;
+		}
+
+.block4{
+	    background: gray;
+		display: block;
+	    position: static;
+		backgroung: gray;
+		font-size:14px;
+		font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+		width:420px; 
+	    height:160px;
+        float:left;/*Add float left*/
+	    margin-left: 390px;
+		}
+.block5{
+	    width: 200px;
+	    height: 500px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 210px;
+	    margin-left: -710px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	    
+}
+.block6{
+	    width: 980px;
+	    height: 300px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 210px;
+	    margin-left: -570px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.block7{
+	    width: 188px;
+	    height: 270px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 530px;
+	    margin-left: -980px;
+	object-position: initial;
+}
+.block8{
+	    width: 188px;
+	    height: 270px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 530px;
+	    margin-left: -782px;
+	object-position: right top;
+}
+.block9{
+	    width: 188px;
+	    height: 270px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 530px;
+	    margin-left: -584px;
+}
+.block10{
+	    width: 188px;
+	    height: 270px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 530px;
+	    margin-left: -386px;
+}
+.block11{
+	    width: 188px;
+	    height: 270px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 530px;
+	    margin-left: -188px;
+}
+.block12{
+	    width: 188px;
+	    height: 270px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 810px;
+	    margin-left: -980px;
+}
+.block13{
+	    width: 188px;
+	    height: 270px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 810px;
+	    margin-left: -782px;
+}
+.block14{
+	    width: 200px;
+	    height: 150px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 22px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 1300px;
+	    margin-left: -1220px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.block15{
+	    width: 475px;
+	    height: 300px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 30px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 1150px;
+	    margin-left: -980px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.block16{
+	    width: 475px;
+	    height: 300px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 30px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 1150px;
+	    margin-left: -475px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.block17{
+	    width: 350px;
+	    height: 300px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 15px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 1500px;
+	    margin-left: -1220px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	column-count: 2;
+}
+.block18{
+	    width: 350px;
+	    height: 300px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 35px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 1500px;
+	    margin-left: -830px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.block19{
+	    width: 435px;
+	    height: 140px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 40px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 1500px;
+	    margin-left: -440px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.block20{
+	    width: 435px;
+	    height: 140px;
+	    background: gray;
+	    color: white;
+	    text-align: center;
+	    line-height: 30px;
+	    display: block;
+	    float: left;
+	    position: static;
+	    margin-top: 1660px;
+	    margin-left: -440px;
+	    font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+.float-parent-element { 
+        width: 1920px;
+} 
+.float-child-element { 
+        float: left; 
+	    width: 100px;
+	    height: 240px;
+} 
